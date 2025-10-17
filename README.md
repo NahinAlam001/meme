@@ -1,7 +1,6 @@
 
-
+![alt RGDORA](https://github.com/NahinAlam001/meme/blob/main/RGDORA.png?raw=true)
 ---
-
 # 🌏 RGDORA: Retrieval-Guided Domain Robust Architecture
 ### Bengali Hateful Meme Detection System 🇧🇩
 
