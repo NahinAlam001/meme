@@ -11,13 +11,13 @@
 
 ## 🔥 Features
 
-✅ Full **checkpoint resumability**
-✅ **Early stopping** with validation monitoring
-✅ Advanced **class imbalance handling** (Focal Loss, Class-Balanced Loss, Balanced Sampling)
-✅ **Mixed precision** training (AMP)
-✅ **FAISS-based retrieval-guided** contrastive learning
-✅ **Rationale generation** via BART
-✅ Comprehensive **metrics & evaluation** suite
+- ✅ Full **checkpoint resumability**
+- ✅ **Early stopping** with validation monitoring
+- ✅ Advanced **class imbalance handling** (Focal Loss, Class-Balanced Loss, Balanced Sampling)
+- ✅ **Mixed precision** training (AMP)
+- ✅ **FAISS-based retrieval-guided** contrastive learning
+- ✅ **Rationale generation** via BART
+- ✅ Comprehensive **metrics & evaluation** suite
 
 ---
 
